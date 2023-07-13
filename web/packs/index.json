@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "Robin.json"
+  ],
+  "homeserver_url": "https://matrix.tu-freiberg.de"
+}
